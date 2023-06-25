@@ -1,0 +1,51 @@
+body{
+    margin: 0;
+    background: url(flip.jpeg);  
+    background-position: center center;  
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    padding: 0;    
+    height: 100%;
+}
+
+.container{
+    text-align: center;
+    animation: infinite;
+    color: blue;
+    
+    border-bottom: 1px solid red;
+}
+
+article{
+       
+    text-align:justify ;
+}
+
+footer{
+    bottom: 1px red;
+    background-position: center;
+}
+.motorola{
+    border: 10px solid red;
+    height:  10px;
+    width: 10px;
+    background-image: url(motorola\ g100.html);
+}
+.footer{
+    color: brown;
+    text-align: center;
+    text-decoration-line: line-through;
+}
+.article1{
+    text-align: center;
+    text-align: initial;
+    
+}
+.boton{
+    font-style: oblique;
+    
+    text-align: center;
+    bottom: unset;
+    border:10px red;
+}
