@@ -49,3 +49,12 @@ footer{
     bottom: unset;
     border:10px red;
 }
+.venta{
+    list-style: circle;
+    color: chocolate;
+    
+}
+textarea{
+    height: 10px;
+    margin: 10px;
+}
